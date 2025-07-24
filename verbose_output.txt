@@ -1,0 +1,117 @@
+[  +47 ms] executing: uname -m
+[   +4 ms] Exit code 0 from: uname -m
+[        ] x86_64
+[   +8 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +19 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +46 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +30 ms] Skipping pub get: version match.
+[ +105 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +36 ms] Generating /workspaces/Forgitmenot/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+[   +4 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +2 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[  +56 ms] Launching lib/main.dart on Web Server in debug mode...
+[   +3 ms] executing: /home/codespace/Android/sdk/platform-tools/adb devices -l
+[  +16 ms] List of devices attached
+[  +71 ms] Initializing file store
+[  +11 ms] Skipping target: gen_localizations
+[   +1 ms] Skipping target: gen_dart_plugin_registrant
+[        ] Skipping target: _composite
+[   +1 ms] complete
+[        ] Updating assets
+[  +84 ms] Waiting for connection from debug service on Web Server...
+[  +70 ms] shaderc command: [/home/codespace/flutter/bin/cache/artifacts/engine/linux-x64/impellerc, --sksl, --iplr, --json, --sl=build/flutter_assets/shaders/ink_sparkle.frag, --spirv=build/flutter_assets/shaders/ink_sparkle.frag.spirv, --input=/home/codespace/flutter/packages/flutter/lib/src/material/shaders/ink_sparkle.frag, --input-type=frag, --include=/home/codespace/flutter/packages/flutter/lib/src/material/shaders, --include=/home/codespace/flutter/bin/cache/artifacts/engine/linux-x64/shader_lib]
+[ +213 ms] <- reset
+[   +4 ms] /home/codespace/flutter/bin/cache/dart-sdk/bin/dartaotruntime /home/codespace/flutter/bin/cache/dart-sdk/bin/snapshots/frontend_server_aot.dart.snapshot --sdk-root /home/codespace/flutter/bin/cache/flutter_web_sdk/ --incremental --target=dartdevc --experimental-emit-debug-metadata -DFLUTTER_VERSION=3.33.0-1.0.pre-1086 -DFLUTTER_CHANNEL=master -DFLUTTER_GIT_URL=https://github.com/flutter/flutter.git -DFLUTTER_FRAMEWORK_REVISION=fa80cbcbdb -DFLUTTER_ENGINE_REVISION=50d6bdd0da -DFLUTTER_DART_VERSION=3.10.0 (build 3.10.0-21.0.dev) --output-dill /tmp/flutter_tools.DBLOJL/flutter_tool.YLRDIZ/app.dill --packages /workspaces/Forgitmenot/.dart_tool/package_config.json -Ddart.vm.profile=false -Ddart.vm.product=false --enable-asserts --track-widget-creation --filesystem-root /tmp/flutter_tools.DBLOJL/flutter_tools.UHKVNT --filesystem-scheme org-dartlang-app --initialize-from-dill build/2520cadaedbf3e163706d0f867c79b88.cache.dill.track.dill --platform file:///home/codespace/flutter/bin/cache/flutter_web_sdk/kernel/ddc_outline.dill --verbosity=error --dartdevc-canary --dartdevc-module-format=ddc
+[   +7 ms] <- compile org-dartlang-app:/web_entrypoint.dart
+[+15641 ms] Waiting for connection from debug service on Web Server... (completed in 15.9s)
+[        ] Synced 70.2MB.
+[   +1 ms] <- accept
+[        ] Caching compiled dill
+[  +53 ms] lib/main.dart is being served at http://localhost:33823
+[   +2 ms] The web-server device requires the Dart Debug Chrome extension for debugging. Consider using the Chrome or Edge devices for an improved development workflow.
+[   +6 ms] Flutter run key commands.
+[   +1 ms] r Hot reload. 🔥🔥🔥
+[   +1 ms] R Hot restart.
+[        ] h List all available interactive commands.
+[        ] d Detach (terminate "flutter run" but leave application running).
+[        ] c Clear the screen
+[        ] q Quit (terminate the application on the device).
+[+281844 ms] Failed to clean up temp directory: /tmp/flutter_tools.DBLOJL/flutter_tools.UHKVNT
+[        ] Running 3 shutdown hooks
+[        ] Shutdown hooks complete
+[   +4 ms] "flutter run" took 298,357ms.
+[   +1 ms] The Dart compiler exited unexpectedly.
+[   +1 ms] 
+           #0      throwToolExit (package:flutter_tools/src/base/common.dart:34:3)
+           #1      DefaultResidentCompiler._compile.<anonymous closure> (package:flutter_tools/src/compile.dart:910:11)
+           #2      _rootRunUnary (dart:async/zone.dart:1538:47)
+           #3      _CustomZone.runUnary (dart:async/zone.dart:1429:19)
+           #4      Future._propagateToListeners.handleValueCallback (dart:async/future_impl.dart:948:45)
+           #5      Future._propagateToListeners (dart:async/future_impl.dart:977:13)
+           #6      Future._completeWithValue (dart:async/future_impl.dart:720:5)
+           #7      Future._asyncCompleteWithValue.<anonymous closure> (dart:async/future_impl.dart:804:7)
+           #8      _rootRun (dart:async/zone.dart:1525:13)
+           #9      _CustomZone.run (dart:async/zone.dart:1422:19)
+           #10     _CustomZone.runGuarded (dart:async/zone.dart:1321:7)
+           #11     _CustomZone.bindCallbackGuarded.<anonymous closure> (dart:async/zone.dart:1362:23)
+           #12     _microtaskLoop (dart:async/schedule_microtask.dart:40:35)
+           #13     _startMicrotaskLoop (dart:async/schedule_microtask.dart:49:5)
+           #14     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:127:13)
+           #15     _RawReceivePort._handleMessage (dart:isolate-patch/isolate_patch.dart:194:5)
+
+
+[        ] Running 3 shutdown hooks
+[        ] Shutdown hooks complete
+[        ] exiting with code 0
