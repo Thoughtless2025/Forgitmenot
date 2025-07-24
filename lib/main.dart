@@ -12,13 +12,16 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Keeping the browser tab title simple, as our main identifier will be in the app's AppBar.
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'ForgitMeNot App',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
       ),
-      // UPDATED TITLE WITH TIMESTAMP
-      home: const MyHomePage(title: 'Flutter Demo Home Page 2025-07-24 01:08 BST'),
+      // --- ONLY CHANGE IS HERE: UPDATED TO INCLUDE ' V1' ---
+      home: const MyHomePage(title: 'ForgitMeNot Home Page V1'),
+      // --- END OF ONLY CHANGE ---
     );
   }
 }
