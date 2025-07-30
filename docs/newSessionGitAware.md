@@ -1,10 +1,10 @@
-# Project Details: Thoughtless
+# Project Details: Forgitmenot
 
-This document provides essential configuration and key identifiers for the 'Thoughtless' project, enabling Git-aware Gemini instances to interact correctly with external services.
+This document provides essential configuration and key identifiers for the 'Forgitmenot' project, enabling Git-aware Gemini instances to interact correctly with external services.
 
 ## Core Project Identifiers
 
-* **Project Name:** Thoughtless
+* **Project Name:** Forgitmenot
 * **Git Repository URL:** `https://github.com/Thooughtless2025/Forgitmenot.git`
     * **Main Branch Name:** `main`
 * **Firebase Project ID:** `NA [Your_Firebase_Project_ID_for_Thoughtless]`
