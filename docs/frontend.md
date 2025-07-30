@@ -4,7 +4,7 @@
 
 To ensure a consistent and intuitive user experience across all screens:
 
-* **Consistent Header:** Every screen will feature a hamburger icon (☰) at a conventional top-corner location (e.g., top-left or top-right).
+* **Consistent Header:** Every screen will feature a hamburger icon (☰) at a conventional top-corner location (top-right).
     * **Consistent Hamburger Menu Content:** Tapping this icon will *always* reveal the same side-drawer or pop-over menu. This menu will consistently list **all available primary screens** (e.g., Create File, Push/Save Confirmation, Settings) along with compliance documents (Privacy Policy, Data Use Policy, Other Compliance Documents), regardless of which screen the user is currently on.
 * **Consistent Footer:** Every screen will reserve a dedicated space at the very bottom for a **static banner advert**, maintaining a fixed size to ensure consistent integration of advertising.
 
@@ -102,4 +102,3 @@ This section will follow the Git Repository & Folder Management.
 
 ---
 
-I believe this document now comprehensively covers the front-end design as we've discussed, in the exact order you requested. It's ready for you to copy.
